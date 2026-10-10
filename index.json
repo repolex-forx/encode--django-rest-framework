@@ -1,0 +1,11 @@
+{
+  "org": "encode",
+  "repo": "django-rest-framework",
+  "versions": [
+    {
+      "commit": "6f6f44bca2e193509ea108914c9e52b102ec6642",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:26:23.877999+00:00"
+    }
+  ]
+}
