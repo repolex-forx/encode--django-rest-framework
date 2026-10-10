@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/encode/django-rest-framework/commit/6f6f44bca2e193509ea108914c9e52b102ec6642",
       "git:hexsha": "6f6f44bca2e193509ea108914c9e52b102ec6642",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T04:26:23.876873+00:00"
     },
     {
       "@id": "https://repolex.ai/r/encode/django-rest-framework/commit/aae848cace25b5de4cebd842200ae65cf6cb9f30",
